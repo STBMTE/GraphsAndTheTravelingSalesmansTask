@@ -1,0 +1,10 @@
+
+GraphsAndTheTravelingSalesmansTask/.idea/.idea.GraphsAndTheTravelingSalesmansTask/.idea/
+
+*.sln
+
+GraphsAndTheTravelingSalesmansTask/GraphsAndTheTravelingSalesmansTask/bin/Debug/
+
+GraphsAndTheTravelingSalesmansTask/GraphsAndTheTravelingSalesmansTask/obj/Debug/
+
+GraphsAndTheTravelingSalesmansTask/GraphsAndTheTravelingSalesmansTask/Properties/
