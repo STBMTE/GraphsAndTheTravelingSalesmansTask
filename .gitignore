@@ -8,3 +8,11 @@ GraphsAndTheTravelingSalesmansTask/GraphsAndTheTravelingSalesmansTask/bin/Debug/
 GraphsAndTheTravelingSalesmansTask/GraphsAndTheTravelingSalesmansTask/obj/Debug/
 
 GraphsAndTheTravelingSalesmansTask/GraphsAndTheTravelingSalesmansTask/Properties/
+
+*.json
+
+GraphsAndTheTravelingSalesmansTask/bin/Debug/net5.0/
+
+GraphsAndTheTravelingSalesmansTask/obj/Debug/net5.0/
+
+GraphsAndTheTravelingSalesmansTask/obj/
